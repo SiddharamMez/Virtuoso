@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/Test/VirtuosoTest/Virtuoso/jena-arq-3.9.0.jar"/>
+	<classpathentry kind="lib" path="F:/Test/VirtuosoTest/Virtuoso/jena-base-3.9.0.jar"/>
+	<classpathentry kind="lib" path="F:/Test/VirtuosoTest/Virtuoso/jena-core-3.9.0.jar"/>
+	<classpathentry kind="lib" path="F:/Test/VirtuosoTest/Virtuoso/jena-iri-3.9.0.jar"/>
+	<classpathentry kind="lib" path="F:/Test/VirtuosoTest/Virtuoso/jena-shaded-guava-3.9.0.jar"/>
+	<classpathentry kind="lib" path="F:/Test/VirtuosoTest/Virtuoso/virt_jena3.jar"/>
+	<classpathentry kind="lib" path="F:/Test/VirtuosoTest/Virtuoso/virtjdbc4.jar"/>
+	<classpathentry kind="lib" path="F:/Test/VirtuosoTest/Virtuoso/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="F:/Test/VirtuosoTest/Virtuoso/poi-examples-3.15.jar"/>
+	<classpathentry kind="lib" path="F:/Test/VirtuosoTest/Virtuoso/poi-excelant-3.15.jar"/>
+	<classpathentry kind="lib" path="F:/Test/VirtuosoTest/Virtuoso/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="F:/Test/VirtuosoTest/Virtuoso/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="F:/Test/VirtuosoTest/Virtuoso/poi-scratchpad-3.15.jar"/>
+	<classpathentry kind="lib" path="F:/Test/VirtuosoTest/Virtuoso/univocity-parsers-2.5.6.jar"/>
+	<classpathentry kind="lib" path="F:/Test/VirtuosoTest/Virtuoso/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/Test/VirtuosoTest/Virtuoso/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="lib" path="F:/Test/VirtuosoTest/Virtuoso/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="F:/Test/VirtuosoTest/Virtuoso/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="F:/Test/VirtuosoTest/Virtuoso/libthrift-0.9.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
